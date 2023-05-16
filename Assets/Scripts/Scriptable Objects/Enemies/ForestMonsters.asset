@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed666fd84b41b274689ee685e8a0092b, type: 3}
+  m_Name: ForestMonsters
+  m_EditorClassIdentifier: 
+  Enemies:
+  - {fileID: 3692699522220544804, guid: f0036791f14b9e544ae0480ee50488b4, type: 3}
+  - {fileID: 5628531686853670996, guid: 13284fde2bdc07e42ac036ebc419ceb8, type: 3}
+  - {fileID: 2884612038215677518, guid: 21da0e593f016bd4985745cc9eead78a, type: 3}
+  - {fileID: 3692699522220544804, guid: f0036791f14b9e544ae0480ee50488b4, type: 3}
+  - {fileID: 3692699522220544804, guid: f0036791f14b9e544ae0480ee50488b4, type: 3}
+  - {fileID: 2884612038215677518, guid: 21da0e593f016bd4985745cc9eead78a, type: 3}
+  - {fileID: 3692699522220544804, guid: f0036791f14b9e544ae0480ee50488b4, type: 3}
+  - {fileID: 2884612038215677518, guid: 21da0e593f016bd4985745cc9eead78a, type: 3}
+  - {fileID: 3692699522220544804, guid: f0036791f14b9e544ae0480ee50488b4, type: 3}
+  - {fileID: 2884612038215677518, guid: 21da0e593f016bd4985745cc9eead78a, type: 3}
+  - {fileID: 2884612038215677518, guid: 21da0e593f016bd4985745cc9eead78a, type: 3}
+  - {fileID: 5628531686853670996, guid: 13284fde2bdc07e42ac036ebc419ceb8, type: 3}
+  - {fileID: 5628531686853670996, guid: 13284fde2bdc07e42ac036ebc419ceb8, type: 3}
+  - {fileID: 2884612038215677518, guid: 21da0e593f016bd4985745cc9eead78a, type: 3}
+  - {fileID: 3692699522220544804, guid: f0036791f14b9e544ae0480ee50488b4, type: 3}
+  - {fileID: 2884612038215677518, guid: 21da0e593f016bd4985745cc9eead78a, type: 3}
+  - {fileID: 3692699522220544804, guid: f0036791f14b9e544ae0480ee50488b4, type: 3}
+  - {fileID: 3692699522220544804, guid: f0036791f14b9e544ae0480ee50488b4, type: 3}
+  - {fileID: 3692699522220544804, guid: f0036791f14b9e544ae0480ee50488b4, type: 3}
+  - {fileID: 5628531686853670996, guid: 13284fde2bdc07e42ac036ebc419ceb8, type: 3}
